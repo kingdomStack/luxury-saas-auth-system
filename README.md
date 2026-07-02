@@ -30,7 +30,7 @@ SecureAuth is a production-ready PHP authentication system that pairs enterprise
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/secureauth.git
+git clone https://github.com/kingdomStack/luxury-saas-auth-system.git
 ```
 
 1. Move the project folder into your `htdocs` directory
